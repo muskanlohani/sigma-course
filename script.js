@@ -1,0 +1,1 @@
+alert("please open with safety")
