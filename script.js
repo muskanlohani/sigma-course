@@ -1,1 +1,1 @@
-alert("please open with safety")
+alert("open with patience  and safety.......")
